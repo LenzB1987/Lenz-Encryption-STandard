@@ -1,0 +1,2 @@
+# For development only
+pytest>=6.0.0
